@@ -1,0 +1,25 @@
+{
+    "name": "PRAKASH",
+    "contact": {
+      "email": "prakashvetri33@gmail.com",
+      "phone": "7395997956"
+    },
+    "summary": "Experienced software developer with a strong background in JavaScript.",
+    "education": [
+      {
+        "institution": "Dr M.G.R Educational and Research Institute",
+        "degree": "Bachelor of Science in Computer Science",
+        "startDate": "2021-06-01",
+        "endDate": "2024-03-25"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "Python",
+      "HTML",
+      "CSS",
+      "React",
+      "Node.js"
+    ]
+  }
+  
